@@ -1,0 +1,17 @@
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:java.library.path=/Users/alex0087/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:java.io.tmpdir=/var/folders/0x/r8q9k0g177xc1v497p_xzg1w0000gn/T/
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:java.compiler=<NA>
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:os.name=Mac OS X
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:os.arch=x86_64
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:os.version=10.16
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:user.name=alex0087
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:user.home=/Users/alex0087
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:user.dir=/Users/alex0087/Desktop/Study/大数据/HBase/hbase-demo
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:os.memory.free=195MB
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:os.memory.max=3641MB
+2022-03-20 20:41:39 INFO  ZooKeeper:109 - Client environment:os.memory.total=245MB
+2022-03-20 20:41:39 INFO  ZooKeeper:868 - Initiating client connection, connectString=emr-worker-2:2181,emr-worker-1:2181,emr-header-1:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.ReadOnlyZKClient$$Lambda$13/1926361690@4f400e27
+2022-03-20 20:41:39 INFO  X509Util:79 - Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation
+2022-03-20 20:41:39 INFO  ClientCnxnSocket:237 - jute.maxbuffer value is 4194304 Bytes
+2022-03-20 20:41:39 INFO  ClientCnxn:1653 - zookeeper.request.timeout value is 0. feature enabled=
+2022-03-20 20:41:40 INFO  ClientCnxn:1112 - Opening socket connection to server emr-worker-1/198.18.1.173:2181. Will not attempt to authenticate using SASL (unknown error)
