@@ -1,4 +1,10 @@
 
+#### 服务器上jar包所在目录
+~/ygs/week3/hbase-demo-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+#### 服务器上运行日志目录
+~/ygs/week3/logs/execution.log.1
+
 #### 在服务器上执行命令:
 java -jar java -jar hbase-demo-1.0-SNAPSHOT-jar-with-dependencies.jar
 
